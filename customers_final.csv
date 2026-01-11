@@ -1,0 +1,21 @@
+customer_id,name,email,signup_date,region
+1,Piyush Thool,piyush.thool@example.com,01-01-2022,East
+2,Chaintanya Bhendarkar,chaitanya@example.com,16-01-2022,West
+3,Jiya Mohod,jiya.mohod@example.com,31-01-2022,North
+4,Disha Pandey,disha.pandey@example.com,15-02-2022,East
+5,Pritee Gogulwar,pgogulwar@example.com,02-03-2022,East
+6,Sanjana Dindewar,sanjana@example.com,17-03-2022,West
+7,Riya Manusmare,riyam@example.com,01-04-2022,North
+8,Sahil Khan,khansahil@example.com,16-04-2022,North
+9,Vaibhav Pissude,vaibhavp@example.com,01-05-2022,East
+10,Gayatri Aglwave,gayatria@example.com,16-05-2022,South
+11,Yukti Chaudhari,yukti.chaudhari@example.com,31-05-2022,East
+12,Sharvari Fulzele,sharvari@example.com,15-06-2022,East
+13,Pritish Adak,pritish@example.com,30-06-2022,East
+14,Prachee Meshram,prachee@example.com,15-07-2022,East
+15,Trupti Wasade,truptiwasade@example.com,30-07-2022,West
+16,Pranjali Narekar,pranjali.n@example.com,14-08-2022,North
+17,Veena Punde,veena.punde@example.com,29-08-2022,West
+18,Vivek Hanwat,vivekhanwat@example.com,13-09-2022,West
+19,Ghosh Bisen,ghoshbisen@example.com,28-09-2022,West
+20,Adarsh Wahewal,adarshwahewal@example.com,13-10-2022,East
